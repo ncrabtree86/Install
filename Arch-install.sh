@@ -59,7 +59,8 @@ CORE_PKGS=(
   lazygit            # Git TUI interface
   neovim             # Fast minimal editor
   emacs              # Full editor (Doom Emacs base)
-
+  fish               # Modern sh
+  
   btop               # System monitor (CPU/RAM/Disk/Net)
   ripgrep            # Fast recursive search
   fd                 # Modern `find` replacement
