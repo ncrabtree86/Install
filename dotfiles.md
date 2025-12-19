@@ -1,4 +1,3 @@
-100%—let’s keep it super simple. Here’s a **single doc** with headers for each file and the exact content you can copy-paste. Create folders if they don’t exist, paste, and you’re done.
 
 ---
 
@@ -33,8 +32,8 @@ PS1='[\u@\h \W]\$ '
 source /usr/share/cachyos-fish-config/cachyos-config.fish
 
 # Personal settings
-set -x EDITOR helix
-set -x VISUAL helix
+set -x neovim
+set -x neovim 
 
 # Optional: Taskwarrior-based quick capture (fish)
 # function jot
