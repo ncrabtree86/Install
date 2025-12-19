@@ -170,7 +170,7 @@ ok "Fonts installed."
 say "Installing browsers…"
 
 BROWSER_PKGS=(
-  firefox-esr
+  firefox
   falkon
 )
 
