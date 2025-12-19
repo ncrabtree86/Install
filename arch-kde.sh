@@ -67,6 +67,7 @@ CORE_PKGS=(
   neovim
   yazi
   lazygit
+  fish
 
   btop
   ripgrep
